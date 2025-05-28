@@ -1,0 +1,130 @@
+{
+  "personal_info": {
+    "first_name": "Ariel",
+    "last_name": "Almada",
+    "email": "arielalmada861@gmail.com",
+    "phone": "+54 9 3434475094",
+    "location": {
+      "country": "Argentina",
+      "city": "Curtiembre",
+      "state": ""
+    },
+    "linkedin": "https://www.linkedin.com/in/ariel-almada-4a7133346/",
+    "website": "https://porfolio-ariel.vercel.app/",
+    "portfolio": "https://porfolio-ariel.vercel.app/",
+    "summary": "Desarrollador backend con conocimientos sólidos en Java y frameworks como Spring Boot. En formación constante (Oracle ONE - Alura), con proyectos propios enfocados en buenas prácticas y arquitectura limpia. Listo para aportar en equipos de desarrollo y seguir aprendiendo en entornos reales."
+  },
+  "work_experience": [
+    {
+      "title": "Desarrollador Backend - Proyectos Personales",
+      "company": "Independiente",
+      "start_date": "2025-01-01",
+      "end_date": "Present",
+      "projects": [
+        {
+          "title": "Conversor de Moneda – Aplicación de Escritorio Java",
+          "description": "Aplicación en Java con Swing, arquitectura MVC, validaciones en tiempo real, pruebas con JUnit. Repositorio: github.com/tuusuario/conversor-moneda"
+        },
+        {
+          "title": "API REST – Sistema para Restaurante",
+          "description": "API RESTful con Spring Boot, JPA, MySQL. CRUD de menú, órdenes y usuarios, seguridad con Spring Security. Repositorio: github.com/tuusuario/restaurant-api"
+        },
+        {
+          "title": "Sistema de análisis de texto con NLP",
+          "description": "Proyecto con Stanford CoreNLP y Apache OpenNLP para análisis de texto y extracción de entidades. Modular y orientado a IA."
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Formación en Desarrollo Backend con Java",
+      "institution": "Alura Latam + Oracle Next Education (ONE)",
+      "location": "Argentina",
+      "start_date": "2025-01-01",
+      "end_date": "Present",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "Java",
+        "SQL",
+        "Spring Boot",
+        "Spring MVC",
+        "Spring Security",
+        "Hibernate",
+        "JPA",
+        "Java Swing",
+        "JUnit",
+        "Maven",
+        "Gradle",
+        "Git",
+        "GitHub",
+        "MySQL",
+        "SOLID",
+        "Clean Code",
+        "Weka",
+        "Deeplearning4j",
+        "JavaML",
+        "OpenNLP",
+        "Stanford CoreNLP"
+      ],
+      "soft": [
+        "Resolución de problemas",
+        "Pensamiento lógico y estructurado",
+        "Aprendizaje autónomo",
+        "Trabajo en equipo",
+        "Comunicación efectiva",
+        "Organización",
+        "Responsabilidad",
+        "Adaptabilidad"
+      ],
+      "tools": []
+    }
+  },
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "Nativo"
+    }
+  ],
+  "javascript_concepts": [
+    {
+      "concept": "Variables y Tipos de Datos",
+      "description": "Uso de var, let y const. Tipos primitivos y objetos.",
+      "repository": "https://github.com/ariel323/cross-language-concepts/blob/main/javascript/variables.md"
+    },
+    {
+      "concept": "Funciones y Closures",
+      "description": "Declaración de funciones tradicionales, funciones flecha y comprensión de closures.",
+      "repository": "https://github.com/ariel323/cross-language-concepts/blob/main/javascript/closures.md"
+    },
+    {
+      "concept": "Ámbito y Hoisting",
+      "description": "Entendimiento del scope (local, global, léxico) y el comportamiento de hoisting.",
+      "repository": "https://github.com/ariel323/cross-language-concepts/blob/main/javascript/hoisting.md"
+    },
+    {
+      "concept": "Programación Orientada a Objetos",
+      "description": "Clases, prototipos y herencia prototípica en JavaScript moderno.",
+      "repository": "https://github.com/ariel323/cross-language-concepts/blob/main/javascript/oop.md"
+    },
+    {
+      "concept": "Asincronía y Promesas",
+      "description": "Uso de callbacks, Promesas y async/await para manejar código asíncrono.",
+      "repository": "https://github.com/ariel323/cross-language-concepts/blob/main/javascript/promises.md"
+    },
+    {
+      "concept": "Manipulación del DOM",
+      "description": "Selección y modificación de elementos del DOM con JavaScript.",
+      "repository": "https://github.com/ariel323/cross-language-concepts/blob/main/javascript/dom.md"
+    },
+    {
+      "concept": "Eventos",
+      "description": "Manejo de eventos y propagación en el DOM.",
+      "repository": "https://github.com/ariel323/cross-language-concepts/blob/main/javascript/events.md"
+    }
+  ]
+}
