@@ -7,31 +7,33 @@
     "location": {
       "country": "Argentina",
       "city": "Curtiembre",
-      "state": ""
+      "state": "Entre Ríos"
     },
     "linkedin": "https://www.linkedin.com/in/ariel-almada-4a7133346/",
-    "website": "https://porfolio-ariel.vercel.app/",
-    "portfolio": "https://porfolio-ariel.vercel.app/",
-    "summary": "Desarrollador backend con conocimientos sólidos en Java y frameworks como Spring Boot. En formación constante (Oracle ONE - Alura), con proyectos propios enfocados en buenas prácticas y arquitectura limpia. Listo para aportar en equipos de desarrollo y seguir aprendiendo en entornos reales."
+    "portfolio_url": "https://porfolio-ariel.vercel.app/",
+    "summary": "Desarrollador de software especializado en Java y Node.js, con pasión por construir soluciones robustas, escalables y de alta calidad. Cuento con experiencia sólida en desarrollo backend, APIs RESTful y microservicios. He creado aplicaciones Java Desktop con arquitectura MVC y desarrollado APIs RESTful con Spring Boot (Java) y Express (Node.js). Además, domino las aplicaciones web interactivas con React, JavaScript moderno (ES6+), TypeScript y el manejo de estados. Mi enfoque incluye testing (JUnit, Jest), Git, metodologías ágiles y la aplicación de Clean Code. Busco activamente nuevos desafíos para aportar valor y continuar mi crecimiento como desarrollador backend y fullstack."
   },
   "work_experience": [
     {
       "title": "Desarrollador Backend - Proyectos Personales",
       "company": "Independiente",
-      "start_date": "2025-01-01",
+      "start_date": "2024-01-01",
       "end_date": "Present",
       "projects": [
         {
           "title": "Conversor de Moneda – Aplicación de Escritorio Java",
-          "description": "Aplicación en Java con Swing, arquitectura MVC, validaciones en tiempo real, pruebas con JUnit. Repositorio: github.com/tuusuario/conversor-moneda"
+          "description": "Aplicación en Java con Swing, arquitectura MVC, validaciones en tiempo real y pruebas con JUnit.",
+          "repository": "https://github.com/ariel323/conversor-moneda"
         },
         {
           "title": "API REST – Sistema para Restaurante",
-          "description": "API RESTful con Spring Boot, JPA, MySQL. CRUD de menú, órdenes y usuarios, seguridad con Spring Security. Repositorio: github.com/tuusuario/restaurant-api"
+          "description": "API RESTful con Spring Boot, JPA y MySQL. Incluye CRUD de menú, órdenes y usuarios, con seguridad implementada con Spring Security.",
+          "repository": "https://github.com/ariel323/restaurant-api"
         },
         {
           "title": "Sistema de análisis de texto con NLP",
-          "description": "Proyecto con Stanford CoreNLP y Apache OpenNLP para análisis de texto y extracción de entidades. Modular y orientado a IA."
+          "description": "Proyecto modular y orientado a IA, utilizando Stanford CoreNLP y Apache OpenNLP para análisis de texto y extracción de entidades.",
+          "repository": "https://github.com/ariel323/nlp-text-analyzer"
         }
       ]
     }
@@ -40,50 +42,62 @@
     {
       "degree": "Formación en Desarrollo Backend con Java",
       "institution": "Alura Latam + Oracle Next Education (ONE)",
-      "location": "Argentina",
-      "start_date": "2025-01-01",
+      "location": {
+        "country": "Argentina",
+        "city": "",
+        "state": ""
+      },
+      "start_date": "2024-01-01",
       "end_date": "Present",
-      "hours": 0
+      "hours": 700
     }
   ],
   "skills": {
-    "keywords": {
-      "technical": [
-        "Java",
-        "javaScript",
-        "SQL",
-        "Spring Boot",
-        "Spring MVC",
-        "Spring Security",
-        "Hibernate",
-        "JPA",
-        "Java Swing",
-        "JUnit",
-        "Maven",
-        "Gradle",
-        "Git",
-        "GitHub",
-        "MySQL",
-        "SOLID",
-        "Clean Code",
-        "Weka",
-        "Deeplearning4j",
-        "JavaML",
-        "OpenNLP",
-        "Stanford CoreNLP"
-      ],
-      "soft": [
-        "Resolución de problemas",
-        "Pensamiento lógico y estructurado",
-        "Aprendizaje autónomo",
-        "Trabajo en equipo",
-        "Comunicación efectiva",
-        "Organización",
-        "Responsabilidad",
-        "Adaptabilidad"
-      ],
-      "tools": []
-    }
+    "technical": [
+      "Java",
+      "JavaScript",
+      "SQL",
+      "Spring Boot",
+      "Spring MVC",
+      "Spring Security",
+      "Hibernate",
+      "JPA",
+      "Java Swing",
+      "JUnit",
+      "Maven",
+      "Gradle",
+      "Git",
+      "GitHub",
+      "MySQL",
+      "SOLID Principles",
+      "Clean Code",
+      "Weka",
+      "Deeplearning4j",
+      "JavaML",
+      "OpenNLP",
+      "Stanford CoreNLP",
+      "Node.js",
+      "Express.js",
+      "React",
+      "TypeScript"
+    ],
+    "soft": [
+      "Resolución de problemas",
+      "Pensamiento lógico y estructurado",
+      "Aprendizaje autónomo",
+      "Trabajo en equipo",
+      "Comunicación efectiva",
+      "Organización",
+      "Responsabilidad",
+      "Adaptabilidad"
+    ],
+    "tools": [
+      "Docker",
+      "Postman",
+      "IntelliJ IDEA",
+      "VS Code",
+      "DBeaver"
+    ]
   },
   "languages": [
     {
@@ -91,7 +105,7 @@
       "fluency": "Nativo"
     }
   ],
-  "javascript_concepts": [
+  "javascript_advanced_concepts": [
     {
       "concept": "Variables y Tipos de Datos",
       "description": "Uso de var, let y const. Tipos primitivos y objetos.",
